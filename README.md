@@ -10,7 +10,7 @@ React Native Expo app that uses NY Open data for visualization
 1. Set up the machine for react native development [RN Docs](https://reactnative.dev/docs/environment-setup)
 2. Clone this repository
 3. In the root of this repo, execute `yarn install`
-4. Create NY Open data API Key [Yelp Developers](https://data.cityofnewyork.us/profile/edit/developer_settings)
+4. Create NY Open data API Key [NY Open Data settings](https://data.cityofnewyork.us/profile/edit/developer_settings)
 5. In `.env` configuration file set `API_KEY` with NY Open data API Key
 6. Run `yarn ios` or `yarn android`
 
